@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "json package npm init",
+  "main": "index.html",
+  "scripts": {
+	"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariuszkorolczukcom/bands.git"
+  },
+  "author": "Dariusz Korolczuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariuszkorolczukcom/bands/issues"
+  },
+  "homepage": "https://github.com/dariuszkorolczukcom/bands#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
